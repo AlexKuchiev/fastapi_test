@@ -1,2 +1,1 @@
-# fastapi_test
-FastAPI DEMO
+# FastAPI Demo
